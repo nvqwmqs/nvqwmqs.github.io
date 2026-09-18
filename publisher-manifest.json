@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7f09bfc43d72662de3f6",
+  "page_size": 20,
+  "site_id": "fd7c6b6c5e032c1f8fe8006f",
+  "owner": "nvqwmqs",
+  "repo": "nvqwmqs.github.io",
+  "title": "网络加速服务",
+  "mode": "site",
+  "articles": [
+    {
+      "id": "a4f7070d48554145204a43b4",
+      "a": "跑路云(Paoluz)",
+      "b": "首页",
+      "entity": "跑路云(Paoluz)",
+      "brand": "跑路云(Paoluz)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "516728026953fbdb8d06f5da99a8c695b3490f8b0a9adb29267050e7aa322de0",
+      "content": {
+        "primary_entity": "跑路云(Paoluz)",
+        "keyword1": "跑路云(Paoluz)",
+        "keyword2": "首页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，仔细阅读安装说明，再导入订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备匹配客户端",
+          "AI_CLOSING_TEXT": "确认设备数量与流量需求后，选择合适的套餐并完成订阅配置。",
+          "AI_CLOSING_TITLE": "开始选择套餐",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版和团队版三档套餐，分别对应不同流量额度、设备在线数量与线路等级。基础版适合个人日常使用，旗舰版增加流媒体解锁与专线游戏优化，团队版面向多设备与定制路由需求。选择时先确认常用设备数量和每月流量消耗，再参考年付方案控制成本。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备连接与订阅周期，简要说明使用前需要确认的几项内容。",
+          "AI_FEATURES_TITLE": "选择与配置要点",
+          "AI_FEATURE_TEXT_1": "先统计手机、电脑和平板等常用设备数量，再对照套餐支持的同时在线设备数，避免超出上限影响使用。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_2": "轻度浏览与视频观看选基础流量档，高频流媒体或游戏加速可考虑旗舰版，多人共享则参考团队版。",
+          "AI_FEATURE_TITLE_2": "按流量需求定档",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付方案通常单价更低，订阅周期在购买时确认，到期前留意续费提醒。",
+          "AI_FEATURE_TITLE_3": "订阅周期与续费",
+          "AI_GUIDE_INTRO": "确认设备数量、流量需求与系统版本后，按客户端说明完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步配置流程",
+          "AI_HERO_INTRO": "跑路云(Paoluz)提供多种海外网络加速套餐，覆盖个人日常使用到团队多设备共享场景。可按流量额度、设备在线数量和线路类型选择基础版、旗舰版或团队版，再结合月付或年付方式安排订阅。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_2": "按设备数选择在线上限",
+          "AI_HIGHLIGHT_3": "年付方案降低长期成本",
+          "AI_PLANS_INTRO": "基础版、旗舰版与团队版在流量额度、设备数量和线路等级上各有侧重，对比后按实际用量选择。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据常用设备数量、每月流量消耗和是否需要流媒体或游戏加速，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "购买前确认操作系统版本、设备类型和网络环境是否满足所选套餐的适配要求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "参考对应客户端的订阅导入说明，完成配置后连接节点测试，遇到问题可提交工单。",
+          "AI_STEP_TITLE_3": "按客户端文档配置",
+          "AI_VISUAL_TITLE": "跑路云套餐指南",
+          "AI_FAQ_ANSWER_1": "基础版适合轻度使用，每月流量满足日常浏览与轻度流媒体；旗舰版提供更多设备同时在线与专线加速；团队版面向多设备高流量需求。按设备数量和月流量选择即可。",
+          "AI_FAQ_ANSWER_2": "套餐允许的设备并发数不同，基础版较少，旗舰版居中，团队版最多。超出并发数会导致新设备无法连接，需先下线其他设备或升级套餐。",
+          "AI_FAQ_ANSWER_3": "支持按月或按年付费，按年付通常有价格优惠。具体续费与周期变更在客户端订阅页面按说明操作，套餐到期前可手动续费保持服务连续性。",
+          "AI_FAQ_ANSWER_4": "主流客户端均支持导入订阅链接，桌面端与移动端配置方式类似。遇到导入失败时，检查订阅链接是否完整、客户端版本是否过旧，或更换网络环境重试。",
+          "AI_FAQ_ANSWER_5": "先确认同时在线设备数，再估算每月流量消耗，最后考虑是否需要专线加速或优先支持。轻度用户选基础版，多设备用户选旗舰版，团队协作选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "跑路云(Paoluz)套餐如何选择？",
+          "AI_FAQ_QUESTION_2": "不同套餐的设备同时在线数量有什么区别？",
+          "AI_FAQ_QUESTION_3": "订阅可以按月还是按年付费？",
+          "AI_FAQ_QUESTION_4": "客户端导入订阅失败怎么办？",
+          "AI_FAQ_QUESTION_5": "如何判断自己适合哪一档套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "fef6762d95b8607c11e796207e279fcc49bc939ef6b408abd2f621dfee9747b7",
+    "sitemap.xml": "d49f798dcb3e172d8c0b4aec31aa4946193188f69b4eabfb92bbe6b9b9a14bbf",
+    "robots.txt": "b2c11fd092b98803d9665502a672f4edc76f92a13750c9c223ba67ad1d31f38d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "3f63fe98ae1a7cf1b99d3e82009b40c8a32e7990b404e960304d0e8bb6aebc4f"
+}

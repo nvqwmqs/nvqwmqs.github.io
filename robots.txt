@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nvqwmqs.github.io/sitemap.xml
